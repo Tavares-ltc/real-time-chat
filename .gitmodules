@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:Tavares-ltc/real-time-chat-back.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Tavares-ltc/real-time-chat-front.git
