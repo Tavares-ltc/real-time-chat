@@ -30,10 +30,15 @@ Caso queira ver a documentação ou clonar individualmente acesse:
 
 Para clonar o monorepo junto com os submódulos (`backend` e `frontend`), use:
 
+Para clonar com SSH:
 ```bash
 git clone --recursive git@github.com:Tavares-ltc/real-time-chat.git
 ```
 
+Para clonar com HTTPS:
+```bash
+git clone --recursive https://github.com/Tavares-ltc/real-time-chat.git
+```
 Se você já clonou sem `--recursive`, inicialize e atualize os submódulos com:
 
 ```bash
